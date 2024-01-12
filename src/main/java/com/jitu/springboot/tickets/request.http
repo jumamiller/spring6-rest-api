@@ -1,4 +1,1 @@
-POST localhost:8080/registrations
-Content-Type: application/json
-
-{"productId":801,"attendeeName":"Miller Juma"}
+GET localhost:8080/actuator/health
